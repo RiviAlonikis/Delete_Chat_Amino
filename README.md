@@ -3,6 +3,7 @@
 # Установка на Termux
 
 ``` $ apt update && apt upgrade ```
+***
 ``` $ apt install python ```
 ``` $ apt install git ```
 ``` $ pip install Amino.py ```
